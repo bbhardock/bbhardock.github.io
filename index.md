@@ -9,7 +9,7 @@ Me interesan las ideas diferentes, innovadoras y sorprendentes en mi área de es
 - [Ayudantías de Programación Orientada a Objetos (2018-2019)](/pdf/ProgramacionAyudante[3127].pdf) 
 - [Proyecto de introducción a la programación de estudiantes de secundaria (2019)](https://eic.ucn.cl/test-de-seleccion-de-la-academia-de-programacion-ucn-francis-school/) (2019)
 ---
-### Pasatiempo
+### Pasatiempos
 - [Editor en jefe y columnista de Semanario/Revista "El Informático"](https://issuu.com/elinformatico)
 
 
