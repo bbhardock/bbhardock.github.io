@@ -3,7 +3,7 @@ logo: "/images/Screenshot_3.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Estudiante de Ingeniería Civil en Computación e Informática UCN
   <br><br>
-  <a href="www.linkedin.com/in/brian-pardo-zambra-b618b21a4">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/brian-pardo-zambra-b618b21a4">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
