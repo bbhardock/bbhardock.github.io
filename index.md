@@ -7,7 +7,7 @@ Me interesan las ideas diferentes, innovadoras y sorprendentes en mi área de es
 ### En que trabajo (o he trabajado)
 - [Proyecto de simulación (2019)](https://github.com/bbhardock/ChinaSimulatioN)
 - [Ayudantías de Programación Orientada a Objetos (2018-2019)](/pdf/ProgramacionAyudante[3127].pdf) 
-- [Proyecto de introducción a la programación de estudiantes de secundaria] (https://eic.ucn.cl/test-de-seleccion-de-la-academia-de-programacion-ucn-francis-school/) (2019)
+- [Proyecto de introducción a la programación de estudiantes de secundaria (2019)](https://eic.ucn.cl/test-de-seleccion-de-la-academia-de-programacion-ucn-francis-school/) (2019)
 ---
 
 
